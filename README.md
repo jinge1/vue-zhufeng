@@ -1,2 +1,15 @@
 # vue-zhufeng
-vue 技巧练习
+
+## install
+
+```shell
+npm install
+```
+
+## start
+
+```shell
+npm run serve
+```
+
+## 
